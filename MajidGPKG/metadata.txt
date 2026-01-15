@@ -1,0 +1,22 @@
+
+[general]
+name=MajidGPKG
+qgisMinimumVersion=3.10
+qgisMaximumVersion=3.99
+description=Package project layers into a GeoPackage and update layer sources, then save project to that GeoPackage.
+about=This plugin packages all project layers into a single GeoPackage file and optionally saves the project inside it.
+version=0.2
+author=Majid Hamed Hobi
+email=majidhamed73@yahoo.com
+homepage=https://github.com/majid1973fg/MajidGPKG
+repository=https://github.com/majid1973fg/MajidGPKG
+tracker=https://github.com/majid1973fg/MajidGPKG/issues
+changelog=Initial release of MajidGPKG plugin.
+experimental=False
+deprecated=False
+tags=GeoPackage, QGIS, data management, packaging, layers
+icon=resources/icon.png
+category=Data Management
+plugin_dependencies=
+server=False
+hasProcessingProvider=False
