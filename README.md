@@ -1,4 +1,3 @@
-
 # MajidGPKG – QGIS Plugin
 
 ![QGIS](https://img.shields.io://img.shields.io/badge/License-GPLv3-blue.svg)
